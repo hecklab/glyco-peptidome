@@ -4,7 +4,7 @@ These scripts where used in the data analysis of the described paper below. Thes
 
 **Monitoring β-casein phosphorylation and O-glycosylation over lactation reveals distinct differences between the proteome and endogenous peptidome**
 
-*Kelly A. Dingess1,2, Inge Gazi1,2, Henk van den Toorn1,2, Marko Mank3, Bernd Stahl3,4, Karli R. Reiding1,2\*, Albert J.R. Heck1,2\**
+*Kelly A. Dingess<sup>1,2</sup>, Inge Gazi<sup>1,2</sup>, Henk van den Toorn<sup>1,2</sup>, Marko Mank<sup>3</sup>, Bernd Stahl<sup>3,4</sup>, Karli R. Reiding<sup>1,2\*</sup>, Albert J.R. Heck<sup>1,2\*</sup>*
 	
 1. Biomolecular Mass Spectrometry and Proteomics, Bijvoet Center for Biomolecular Research and Utrecht Institute for Pharmaceutical Sciences, University of Utrecht, Padualaan 8, Utrecht 3584 CH, The Netherlands
 2. Netherlands Proteomics Center, Padualaan 8, Utrecht 3584 CH, The Netherlands
