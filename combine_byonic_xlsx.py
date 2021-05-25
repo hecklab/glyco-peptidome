@@ -25,6 +25,11 @@ import pandas as pd
 
 # This script combines multiple xlsx output files from Byonic
 
+# 0. Remove a previously combined file if present.
+if(os.path.isfile("Combined.xlsx")):
+    os.unlink("Combined.xlsx")
+    print("Removed existing Combined.xlsx")
+
 # 1. Generate list of xlsx workbooks
 
 fileList = []
