@@ -15,3 +15,12 @@ These scripts where used in the data analysis of the described paper below. Thes
 \*Corresponding authors: Karli R. Reiding, E-mail: k.r.reiding@uu.nl; Albert J. R. Heck, E-mail: a.j.r.heck@uu.nl
 
 Keywords: Human milk, Mass Spectrometry, O-Glycosylation, Peptidomics, Antimicrobial peptides 
+
+------
+
+# Instructions for use
+
+First, the Byonic output files from the article must be downloaded and combined using the python script. The script will read all \*.xlsx files from the current directory, and outputs a file called "Combined.xlsx".
+The script uses the **pandas** package.
+
+Second you can run the jupyter notebook to go through the analysis done in the article, reading in the Combined.xlsx file. This notebook uses the R kernel, and it requires the tidyverse, cowplot, scales, readxl packages.
