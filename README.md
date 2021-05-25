@@ -23,4 +23,4 @@ Keywords: Human milk, Mass Spectrometry, O-Glycosylation, Peptidomics, Antimicro
 First, the Byonic output files from the article must be downloaded and combined using the python script. The script will read all \*.xlsx files from the current directory, and outputs a file called "Combined.xlsx".
 The script uses the **pandas** package.
 
-Second you can run the jupyter notebook to go through the analysis done in the article, reading in the Combined.xlsx file. This notebook uses the R kernel, and it requires the tidyverse, cowplot, scales, readxl packages.
+Second, run the jupyter notebook to go through the analysis done in the article, reading in the Combined.xlsx file. This notebook uses the R kernel, and it requires the **tidyverse, cowplot, scales and readxl** packages.
